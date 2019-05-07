@@ -2681,8 +2681,13 @@ figcaption {
 }
 
 .work-image.cc-work-3 {
-  background-image: url("https://uploads-ssl.webflow.com/5cb5e47aabc051d718ef88b3/5cb5e47aabc05194c1ef88d4_portfolio%203%20-%20wide.svg");
-  background-size: cover;
+  background-image: url("https://www.twitch.tv/p/assets/uploads/glitch_474x356.png");
+  background-repeat: no-repeat;
+}
+
+.work-image.cc-work-4 {
+  background-image: url("https://yt3.ggpht.com/a-/AAuE7mAu_-wIFvVO-HT01aQiwmI4GHd_aEXw3HQ-OA=s900-mo-c-c0xffffffff-rj-k-no");
+  background-repeat: no-repeat;
 }
 
 .project-name-link {
@@ -2691,6 +2696,7 @@ figcaption {
   line-height: 34px;
   font-weight: 400;
   text-decoration: none;
+  color: rgba(180, 180, 180, 1);
 }
 
 .project-name-link:hover {
